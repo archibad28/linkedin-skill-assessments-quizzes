@@ -199,3 +199,10 @@
 -[] a symbol
 -[] a component -[x] a group
 -[] a screen element
+
+#### Q28. What do overlays require?
+
+- [] an action
+- [] a keyboard element
+- [x] a separate artboard
+- [] a trigger

@@ -199,3 +199,17 @@
 -[] a symbol
 -[] a component -[x] a group
 -[] a screen element
+
+#### Q28. How would you publish your design system for your developer to use?
+
+- [x] Click **Share - Development**
+- [] Click **Share - Design Review**
+- [] Click **Share - Custom**
+- [] Click **Share - User Testing**
+
+#### Q29. What does clicking **Add-ons** in the XD Home screen provide access to?
+
+- [x] UI kits
+- [] XD tutorials
+- [] your Creative Cloud library
+- [] XD app extensions
